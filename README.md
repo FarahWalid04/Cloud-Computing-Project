@@ -51,6 +51,5 @@ Rodina Mohamed:	S3 & File Handling
 Mariam Ahmed:	VPC Configuration & Testing
 
 🔗 Demo Links
-
 🌐 Live Demo: http://34.228.158.194
-📂 Project Drive: View on Google Drive
+
