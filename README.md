@@ -68,7 +68,7 @@ Farah Walid: AWS Account Setup, Testing & Documentation
 
 Nour Essam:	Web App Development
 
-Basmala Hossam: El-Din	EC2 & IAM Setup
+Basmala Hossam El-Din:	EC2 & IAM Setup
 
 Rodina Mohamed:	S3 & File Handling
 
